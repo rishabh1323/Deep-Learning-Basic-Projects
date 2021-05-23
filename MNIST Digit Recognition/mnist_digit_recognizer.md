@@ -118,7 +118,7 @@ for class_name in sorted(os.listdir('/tmp/train')):
 
 
     
-![png](/outputs/output_10_0.png)
+![png](outputs/output_10_0.png)
     
 
 
@@ -312,13 +312,13 @@ plt.show()
 
 
     
-![png](/outputs/output_19_0.png)
+![png](outputs/output_19_0.png)
     
 
 
 
     
-![png](/outputs/output_19_1.png)
+![png](outputs/output_19_1.png)
     
 
 
@@ -358,7 +358,7 @@ for i, index in enumerate(random_indices):
 
 
     
-![png](/outputs/output_23_1.png)
+![png](outputs/output_23_1.png)
     
 
 
