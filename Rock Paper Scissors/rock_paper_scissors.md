@@ -115,19 +115,19 @@ for img_path in [next_rock, next_paper, next_scissors]:
 
 
     
-![png](/outputs/output_10_0.png)
+![png](outputs/output_10_0.png)
     
 
 
 
     
-![png](/outputs/output_10_1.png)
+![png](outputs/output_10_1.png)
     
 
 
 
     
-![png](/outputs/output_10_2.png)
+![png](outputs/output_10_2.png)
     
 
 
@@ -325,13 +325,13 @@ plt.show()
 
 
     
-![png](/outputs/output_16_0.png)
+![png](outputs/output_16_0.png)
     
 
 
 
     
-![png](/outputs/output_16_1.png)
+![png](outputs/output_16_1.png)
     
 
 
@@ -370,18 +370,4 @@ for file_name in uploaded.keys():
 
 ```
 
-
-
-<input type="file" id="files-579578b7-f657-4393-9165-0fca5c46bfff" name="files[]" multiple disabled
-   style="border:none" />
-<output id="result-579578b7-f657-4393-9165-0fca5c46bfff">
- Upload widget is only available when the cell has been executed in the
- current browser session. Please rerun this cell to enable.
- </output>
- <script src="/nbextensions/google.colab/files.js"></script> 
-
-
-    
-    Class Order [Paper  Rock  Scissors]
-    
     
