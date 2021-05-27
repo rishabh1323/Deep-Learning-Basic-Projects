@@ -516,14 +516,7 @@ files.download("/content/file.zip")
       adding: content/saved_model/my_model/variables/ (stored 0%)
       adding: content/saved_model/my_model/variables/variables.data-00000-of-00001 (deflated 6%)
       adding: content/saved_model/my_model/variables/variables.index (deflated 66%)
-    
 
-
-    <IPython.core.display.Javascript object>
-
-
-
-    <IPython.core.display.Javascript object>
 
 
 #### Exploring Using TensorBoard
@@ -536,7 +529,3 @@ files.download("/content/file.zip")
 # Start tensorboard within notebook using magics
 %tensorboard --logdir logs
 ```
-
-
-    <IPython.core.display.Javascript object>
-
