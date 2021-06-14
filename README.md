@@ -22,7 +22,7 @@ For running the source code on your local machine, the following dependencies ar
 
 ## Launch
 For local installation, follow these steps:
-1. Download source code from GitHub repository or [here](https://github.com/rishabh1323/Deep-Learning-Basic-Projects/archive/refs/heads/main.zip).
+1. Download source code from this repository or click [here](https://github.com/rishabh1323/Deep-Learning-Basic-Projects/archive/refs/heads/main.zip).
 2. Extract files to desired directory.
 3. [Download](https://www.python.org/downloads/) and install Python3 if not done already.
 4. Create a new python virtual environment.
