@@ -7,6 +7,7 @@ The applications are live [here](http://the-ml-dl-app.herokuapp.com/deep-learnin
 ## Applications
 1. Digit Recognition - [Dataset](https://www.kaggle.com/scolianni/mnistasjpg)
 2. Rock Paper Scissors - [Dataset](https://laurencemoroney.com/datasets.html)
+3. Pneumonia Detection - [Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)&nbsp;&nbsp;&nbsp;
